@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: goldenrod;
     display: flex;
     justify-content: center;
     padding-top: 5rem;
